@@ -22,9 +22,9 @@ Starting an MSc in Artificial Intelligence and Robotics at the University of Her
 | Project | What it does |
 |---|---|
 | [Tomato sorting machine](https://github.com/kavyachandaka1133/tomato-sorting-machine) | ESP32-based object detection that identifies raw, ripe and rotten tomatoes |
-| [Smart home control](https://github.com/YOUR-USERNAME/smart-home-blynk) | Monitor and control home appliances remotely through the Blynk app |
-| [Li-Fi highway navigation](https://github.com/YOUR-USERNAME/lifi-highway-navigation) | Highway navigation system that uses Li-Fi (light fidelity) |
-| [AI assistant](https://github.com/YOUR-USERNAME/ai-assistant) | In progress |
+| [Smart home control](https://github.com/kavyachandaka1133/smart-home-blynk) | Monitor and control home appliances remotely through the Blynk app |
+| [Li-Fi highway navigation](https://github.com/kavyachandaka1133/lifi-highway-navigation) | Highway navigation system that uses Li-Fi (light fidelity) |
+| [AI assistant](https://github.com/kavyachandaka1133/ai-assistant) | In progress |
 
 ## Experience
 
